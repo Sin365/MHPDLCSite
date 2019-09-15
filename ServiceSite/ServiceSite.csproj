@@ -69,35 +69,216 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="php\MHPSP\DL_TOP.aspx" />
-    <Content Include="php\MHPSP\PNG\BG.png" />
-    <Content Include="php\MHPSP\PNG\BOARD.PNG" />
-    <Content Include="php\MHPSP\PNG\B_REC.PNG" />
-    <Content Include="php\MHPSP\PNG\B_START.PNG" />
-    <Content Include="php\MHPSP\PNG\B_TRI.PNG" />
-    <Content Include="php\MHPSP\PNG\B_X.PNG" />
-    <Content Include="php\MHPSP\PNG\LOGO1.PNG" />
-    <Content Include="php\MHPSP\PNG\LOGO2.PNG" />
-    <Content Include="php\MHPSP\PNG\T_GRN.PNG" />
-    <Content Include="php\MHPSP\PNG\T_RED.PNG" />
-    <Content Include="php\MHPSP\PNG\y20070222.png" />
+    <Content Include="psp\MHP2G\DL_SELECT.aspx" />
+    <Content Include="psp\MHP2G\DL_TOP.aspx" />
+    <Content Include="psp\MHP2G\GIF\BDL.gif" />
+    <Content Include="psp\MHP2G\GIF\BG.gif" />
+    <Content Include="psp\MHP2G\GIF\BONUS.gif" />
+    <Content Include="psp\MHP2G\GIF\BUTTON1.gif" />
+    <Content Include="psp\MHP2G\GIF\BUTTON2.gif" />
+    <Content Include="psp\MHP2G\GIF\BUTTON3.gif" />
+    <Content Include="psp\MHP2G\GIF\BUTTON4.gif" />
+    <Content Include="psp\MHP2G\GIF\BUTTON5.gif" />
+    <Content Include="psp\MHP2G\GIF\chacha.gif" />
+    <Content Include="psp\MHP2G\GIF\conga.gif" />
+    <Content Include="psp\MHP2G\GIF\DOWNLOAD.gif" />
+    <Content Include="psp\MHP2G\GIF\HUKIDASI.gif" />
+    <Content Include="psp\MHP2G\GIF\INFORMATION.gif" />
+    <Content Include="psp\MHP2G\GIF\KANBAN.gif" />
+    <Content Include="psp\MHP2G\GIF\LIST.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO1.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO10.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO11.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO13.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO14.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO15.gif" />
+    <Content Include="psp\MHP2G\GIF\LOGO2.gif" />
+    <Content Include="psp\MHP2G\GIF\LR.gif" />
+    <Content Include="psp\MHP2G\GIF\NEKO_NEW.gif" />
+    <Content Include="psp\MHP2G\GIF\PIG.gif" />
+    <Content Include="psp\MHP2G\GIF\QBOARD.gif" />
+    <Content Include="psp\MHP2G\GIF\QBOARD2.gif" />
+    <Content Include="psp\MHP2G\GIF\ro-dos.gif" />
+    <Content Include="psp\MHP2G\GIF\SELECT1.gif" />
+    <Content Include="psp\MHP2G\GIF\SELECT2.gif" />
+    <Content Include="psp\MHP2G\GIF\taru.gif" />
+    <Content Include="psp\MHP2G\GIF\T_PNK2.gif" />
+    <Content Include="psp\MHP2G\GIF\T_PPL.gif" />
+    <Content Include="psp\MHP2G\GIF\T_PPL2.gif" />
+    <Content Include="psp\MHP2G\GIF\T_RED.gif" />
+    <Content Include="psp\MHP2G\GIF\T_RED2.gif" />
+    <Content Include="psp\MHP2G\GIF\T_WHT.gif" />
+    <Content Include="psp\MHP2G\GIF\T_WHT2.gif" />
+    <Content Include="psp\MHP2G\PNG\b00000.png" />
+    <Content Include="psp\MHP2G\PNG\b00000[1].png" />
+    <Content Include="psp\MHP2G\PNG\b00001.png" />
+    <Content Include="psp\MHP2G\PNG\b00002.png" />
+    <Content Include="psp\MHP2G\PNG\b00003.png" />
+    <Content Include="psp\MHP2G\PNG\b00004.png" />
+    <Content Include="psp\MHP2G\PNG\b00005.png" />
+    <Content Include="psp\MHP2G\PNG\b00011.png" />
+    <Content Include="psp\MHP2G\PNG\bonus03.png" />
+    <Content Include="psp\MHP2G\PNG\bonus11.png" />
+    <Content Include="psp\MHP2G\PNG\bonus12.png" />
+    <Content Include="psp\MHP2G\PNG\bonus13.png" />
+    <Content Include="psp\MHP2G\PNG\bonus14.png" />
+    <Content Include="psp\MHP2G\PNG\bonus15.png" />
+    <Content Include="psp\MHP2G\PNG\bonus19.png" />
+    <Content Include="psp\MHP2G\PNG\c61002.png" />
+    <Content Include="psp\MHP2G\PNG\c61003.png" />
+    <Content Include="psp\MHP2G\PNG\c61004.png" />
+    <Content Include="psp\MHP2G\PNG\c61005.png" />
+    <Content Include="psp\MHP2G\PNG\c61006.png" />
+    <Content Include="psp\MHP2G\PNG\c61007.png" />
+    <Content Include="psp\MHP2G\PNG\c61008.png" />
+    <Content Include="psp\MHP2G\PNG\c61009.png" />
+    <Content Include="psp\MHP2G\PNG\c61010.png" />
+    <Content Include="psp\MHP2G\PNG\e60001.png" />
+    <Content Include="psp\MHP2G\PNG\e60002.png" />
+    <Content Include="psp\MHP2G\PNG\e60003.png" />
+    <Content Include="psp\MHP2G\PNG\e60004.png" />
+    <Content Include="psp\MHP2G\PNG\e60005.png" />
+    <Content Include="psp\MHP2G\PNG\e60006.png" />
+    <Content Include="psp\MHP2G\PNG\e60007.png" />
+    <Content Include="psp\MHP2G\PNG\e60008.png" />
+    <Content Include="psp\MHP2G\PNG\e60009.png" />
+    <Content Include="psp\MHP2G\PNG\e60010.png" />
+    <Content Include="psp\MHP2G\PNG\e60011.png" />
+    <Content Include="psp\MHP2G\PNG\e60012.png" />
+    <Content Include="psp\MHP2G\PNG\e60014.png" />
+    <Content Include="psp\MHP2G\PNG\e60015.png" />
+    <Content Include="psp\MHP2G\PNG\e60016.png" />
+    <Content Include="psp\MHP2G\PNG\e60017.png" />
+    <Content Include="psp\MHP2G\PNG\e60018.png" />
+    <Content Include="psp\MHP2G\PNG\e60019.png" />
+    <Content Include="psp\MHP2G\PNG\e60020.png" />
+    <Content Include="psp\MHP2G\PNG\e60021.png" />
+    <Content Include="psp\MHP2G\PNG\e60022.png" />
+    <Content Include="psp\MHP2G\PNG\e60023.png" />
+    <Content Include="psp\MHP2G\PNG\e60024.png" />
+    <Content Include="psp\MHP2G\PNG\e60025.png" />
+    <Content Include="psp\MHP2G\PNG\e60026.png" />
+    <Content Include="psp\MHP2G\PNG\e60027.png" />
+    <Content Include="psp\MHP2G\PNG\e60028.png" />
+    <Content Include="psp\MHP2G\PNG\e60029.png" />
+    <Content Include="psp\MHP2G\PNG\e60030.png" />
+    <Content Include="psp\MHP2G\PNG\e60031.png" />
+    <Content Include="psp\MHP2G\PNG\e60032.png" />
+    <Content Include="psp\MHP2G\PNG\e60033.png" />
+    <Content Include="psp\MHP2G\PNG\e60034.png" />
+    <Content Include="psp\MHP2G\PNG\e60035.png" />
+    <Content Include="psp\MHP2G\PNG\e60037.png" />
+    <Content Include="psp\MHP2G\PNG\e60038.png" />
+    <Content Include="psp\MHP2G\PNG\f00001.png" />
+    <Content Include="psp\MHP2G\PNG\f00002.png" />
+    <Content Include="psp\MHP2G\PNG\f00003.png" />
+    <Content Include="psp\MHP2G\PNG\f00004.png" />
+    <Content Include="psp\MHPSP\DL_BONUS.aspx" />
+    <Content Include="psp\MHPSP\DL_TOP.aspx" />
+    <Content Include="psp\MHPSP\PNG\BG.png" />
+    <Content Include="psp\MHPSP\PNG\BOARD.PNG" />
+    <Content Include="psp\MHPSP\PNG\B_REC.PNG" />
+    <Content Include="psp\MHPSP\PNG\B_START.PNG" />
+    <Content Include="psp\MHPSP\PNG\B_TRI.PNG" />
+    <Content Include="psp\MHPSP\PNG\B_X.PNG" />
+    <Content Include="psp\MHPSP\PNG\LOGO1.PNG" />
+    <Content Include="psp\MHPSP\PNG\LOGO2.PNG" />
+    <Content Include="psp\MHPSP\PNG\T_GRN.PNG" />
+    <Content Include="psp\MHPSP\PNG\T_RED.PNG" />
+    <Content Include="psp\MHPSP\PNG\y20070222.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="php\MHPSP\DL_TOP.aspx.cs">
+    <Compile Include="psp\MHP2G\DL_SELECT.aspx.cs">
+      <DependentUpon>DL_SELECT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="psp\MHP2G\DL_SELECT.aspx.designer.cs">
+      <DependentUpon>DL_SELECT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="psp\MHP2G\DL_TOP.aspx.cs">
       <DependentUpon>DL_TOP.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="php\MHPSP\DL_TOP.aspx.designer.cs">
+    <Compile Include="psp\MHP2G\DL_TOP.aspx.designer.cs">
+      <DependentUpon>DL_TOP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="psp\MHPSP\DL_BONUS.aspx.cs">
+      <DependentUpon>DL_BONUS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="psp\MHPSP\DL_BONUS.aspx.designer.cs">
+      <DependentUpon>DL_BONUS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="psp\MHPSP\DL_TOP.aspx.cs">
+      <DependentUpon>DL_TOP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="psp\MHPSP\DL_TOP.aspx.designer.cs">
       <DependentUpon>DL_TOP.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MHHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <Content Include="psp\MHP2G\BONUS\bonus.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60001.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60002.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60003.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60004.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60005.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60006.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60007.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60008.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60009.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60010.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60011.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60012.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60013.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60014.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60015.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60016.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60017.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60018.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60019.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60020.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60021.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60022.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60023.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60024.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60025.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60026.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60027.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60028.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60029.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60030.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60031.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60032.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60033.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60034.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60035.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60036.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60037.mib" />
+    <Content Include="psp\MHP2G\QUEST\m60038.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61001.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61002.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61003.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61004.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61005.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61006.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61007.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61008.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61009.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61010.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61011.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61012.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61013.mib" />
+    <Content Include="psp\MHP2G\QUEST\m61014.mib" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -108,7 +289,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="php\MHP2G\GIF\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
